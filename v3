@@ -1,1 +1,2 @@
 测试：第二次push，运行的指令是：git push --set-upstream origin master,测试第3次push,能不能用简短版本。
+结果：可以

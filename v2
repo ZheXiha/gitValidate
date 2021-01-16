@@ -1,1 +1,2 @@
 测试：第一次push，不用-u的情况下，第二次push，能不能用简短命令：git push origin
+结果：不能
